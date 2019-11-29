@@ -1,2 +1,2 @@
 # Kudan-cloud-gaming-platform
-![alt text](https://raw.githubusercontent.com/TimZRZ/Kudan-cloud-gaming-platform/master/doc/image/Kudan.png=300x300)
+<img src="https://raw.githubusercontent.com/TimZRZ/Kudan-cloud-gaming-platform/master/doc/image/Kudan.png" width="300" height="300">
